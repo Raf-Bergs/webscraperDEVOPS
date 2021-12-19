@@ -26,3 +26,10 @@ jobs:
       
     - name: Publish
       run: dotnet publish
+      
+      
+    - name: Upload exe
+      uses: actions/upload-artifact@v2
+      with:
+        name: Raf_Bergs_webScraper
+        path: webscraperDEVOPS\bin\Release\net5.0\win-x64\publish\
