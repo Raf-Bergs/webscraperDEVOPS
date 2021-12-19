@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKJbtQ11B8TXtSODBlKu1d7TxWDXpYpWRlHi2T5Vy3oLWx7wp7xQQwt0zRFJakTgYDmC/aGDCnG6VocZZKWTCQ==",
+  "success": true,
+  "projectFilePath": "E:\\College\\Y2\\devOps\\visual studio\\webScraper\\webScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wendy\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Wendy\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

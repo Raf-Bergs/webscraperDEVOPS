@@ -1,0 +1,17 @@
+E:\College\Y2\devOps\visual studio\webScraper\bin\Debug\netcoreapp3.1\webScraper.exe
+E:\College\Y2\devOps\visual studio\webScraper\bin\Debug\netcoreapp3.1\webScraper.deps.json
+E:\College\Y2\devOps\visual studio\webScraper\bin\Debug\netcoreapp3.1\webScraper.runtimeconfig.json
+E:\College\Y2\devOps\visual studio\webScraper\bin\Debug\netcoreapp3.1\webScraper.runtimeconfig.dev.json
+E:\College\Y2\devOps\visual studio\webScraper\bin\Debug\netcoreapp3.1\webScraper.dll
+E:\College\Y2\devOps\visual studio\webScraper\bin\Debug\netcoreapp3.1\webScraper.pdb
+E:\College\Y2\devOps\visual studio\webScraper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\College\Y2\devOps\visual studio\webScraper\bin\Debug\netcoreapp3.1\WebDriver.dll
+E:\College\Y2\devOps\visual studio\webScraper\obj\Debug\netcoreapp3.1\webScraper.csproj.AssemblyReference.cache
+E:\College\Y2\devOps\visual studio\webScraper\obj\Debug\netcoreapp3.1\webScraper.GeneratedMSBuildEditorConfig.editorconfig
+E:\College\Y2\devOps\visual studio\webScraper\obj\Debug\netcoreapp3.1\webScraper.AssemblyInfoInputs.cache
+E:\College\Y2\devOps\visual studio\webScraper\obj\Debug\netcoreapp3.1\webScraper.AssemblyInfo.cs
+E:\College\Y2\devOps\visual studio\webScraper\obj\Debug\netcoreapp3.1\webScraper.csproj.CoreCompileInputs.cache
+E:\College\Y2\devOps\visual studio\webScraper\obj\Debug\netcoreapp3.1\webScraper.dll
+E:\College\Y2\devOps\visual studio\webScraper\obj\Debug\netcoreapp3.1\webScraper.pdb
+E:\College\Y2\devOps\visual studio\webScraper\obj\Debug\netcoreapp3.1\webScraper.genruntimeconfig.cache
+E:\College\Y2\devOps\visual studio\webScraper\obj\Debug\netcoreapp3.1\webScraper.csproj.CopyComplete
